@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2553
+
+A syntax file for Irssi logs.  The script can also read your .irssi/saved_colors file (from nickcolor.pl) to colorize your friends' names.
