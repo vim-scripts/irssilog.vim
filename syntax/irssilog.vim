@@ -1,7 +1,7 @@
 " Irssi Log syntax file
 " Language:	Irssi log
 " Maintainer:	Will Gray <graywh@gmail.com>
-" GetLatestVimScripts: xxxx 1 :AutoInstall: irssilog.vim
+" GetLatestVimScripts: 2553 1 :AutoInstall: irssilog.vim
 "
 " Based on work by TODO
 
@@ -11,7 +11,7 @@ endif
 
 let b:current_syntax = 'irssilog'
 
-setlocal iskeyword+=45,91-96,124
+setlocal iskeyword+=45,91-96,123-125
 
 syntax spell notoplevel
 
